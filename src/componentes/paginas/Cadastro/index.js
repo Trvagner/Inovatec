@@ -68,7 +68,7 @@ export default function Cadastro(props) {
         <Formulario
         obrigatorio={true}
         label="Senha"
-        placeholder="Digite sua senha, 6 digitos"
+        placeholder="Digite sua senha, 6 dígitos"
         valor={senha}
         aoAlterado={valor =>setSenha(valor)}
         />
