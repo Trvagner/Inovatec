@@ -1,0 +1,13 @@
+.formularioc {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.formularioc form {
+    max-width: 80%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 24px 32px;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.08);
+}
